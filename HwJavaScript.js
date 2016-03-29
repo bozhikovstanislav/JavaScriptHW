@@ -3,7 +3,9 @@
  */
 function MyFirstFunction() {
 
-    console.log("hello world");
+    var now = new Date();
+
+    console.log(now.getDate())
 
 }
 MyFirstFunction();
