@@ -1,0 +1,12 @@
+.table tr, #Welcome{
+    font-size: 100%;
+}
+.StudentTable{
+
+    border: thin;
+    border-collapse: collapse;
+}
+.center{
+    left: 300px;
+    position: relative;
+}
